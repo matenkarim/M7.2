@@ -1,24 +1,13 @@
-# Web Dev Starter Code
+# M7.2 Lab
 
 ## Overview
 
-TODO: Write a project description
+For this lab, we are focusing on using various layout techniques such as grids, floats, and positioning to make our website function better and be more accessible through different devices.
+
+To run this project, the user needs to clone the repository and run VSCode's plugin "Live Server". This will allow them to run the website and open it in their own browser.
 
 ## Sources and Credits
 
-TODO: You must credit the sources and authors of any code, libraries, or other
-assets you use in your project. If you leave this section blank, your project
-will be considered in violation of the Academic Honesty policy unless you truly
-created everything from scratch with no outside help. If you need to use a
-source that you cannot credit (e.g. a classmate's work), you must get explicit
-permission from your instructor.
-
-A simple bulleted list below is sufficient. For example:
-
-- Bootstrap: https://getbootstrap.com/
-- jQuery: https://jquery.com/
-- Background image: https://unsplash.com/photos/...
-- Sound effects: https://freesound.org/people/...
-- Icons: https://fontawesome.com/
-- Fonts: https://fonts.google.com/
-- etc.
+- Positioning: https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning#introducing_top_bottom_left_and_right
+- Floats: https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Floats
+- Grids: https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids#flexible_grids_with_the_fr_unit
